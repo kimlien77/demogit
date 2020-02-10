@@ -5,3 +5,4 @@ thu moi rebase lan 2
 thu moi rebase lan 3
 thu moi merge lan 1
 thu moi merge lan 2
+branch 2
