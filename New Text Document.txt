@@ -3,3 +3,4 @@ thu lai lan nua tren local
 thu moi rebase
 thu moi rebase lan 2
 thu moi rebase lan 3
+thu moi merge lan 1
