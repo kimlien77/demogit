@@ -1,2 +1,2 @@
 chua co gi
-ghi vao lan 1 tren master
+ghi vao lan 1 tren local
